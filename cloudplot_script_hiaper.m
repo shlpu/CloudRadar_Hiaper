@@ -30,7 +30,7 @@ addpath(genpath('/home/disk/zathras/ltomkins/matlab/c130'));
 
 starttime = '20150202140001';   % CHANGE
 endtime   = '20150202140100';   % CHANGE
-plot_type = 'ref';              % CHANGE (can be 'ref', 'vel', or 'both')
+plot_type = 'both';              % CHANGE (can be 'ref', 'vel', or 'both')
 flighttrack_flag = 'on';        % CHANGE (can be 'on' or 'off')
 
 inpath = '/home/disk/molari1/neusarchive/hiapercloudradar/cfradial/moments/qcv1/10hz/20150202/';
