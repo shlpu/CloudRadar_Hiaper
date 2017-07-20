@@ -18,6 +18,7 @@ function [] = gen_cloudplot_hiaper(filepath, plot_type, flightpath_flag)
 %
 % Functions Used: gen_netcdfvariablenames.m
 %                 gen_readnetcdf2array_v3.m
+%                 LCH_Spiral.m
 %
 % Required Paths: N/A
 %
